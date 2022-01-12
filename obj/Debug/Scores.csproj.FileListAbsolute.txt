@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\Scores\bin\Debug\Scores.exe.config
+C:\Users\Nolan Pawelski\Desktop\Scores\bin\Debug\Scores.exe
+C:\Users\Nolan Pawelski\Desktop\Scores\bin\Debug\Scores.pdb
+C:\Users\Nolan Pawelski\Desktop\Scores\obj\Debug\Scores.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\Scores\obj\Debug\Scores.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\Scores\obj\Debug\Scores.exe
+C:\Users\Nolan Pawelski\Desktop\Scores\obj\Debug\Scores.pdb
